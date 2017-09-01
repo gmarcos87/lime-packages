@@ -4,6 +4,7 @@
 # [LibreMesh][5] packages "Dayboot Relay" release (17.06)
 
 [![LibreMesh logo](https://raw.githubusercontent.com/libremesh/lime-web/master/logo/logo.png)](http://libremesh.org)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgmarcos87%2Flime-packages.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgmarcos87%2Flime-packages?ref=badge_shield)
 
 [LibreMesh project][5] includes the development of several tools used for deploying libre/free mesh networks.
 
@@ -88,3 +89,7 @@ The project uses an IRC channel on freenode.net
 [8]: https://lists.libremesh.org/mailman/listinfo/lime-users
 [9]: http://repo.libremesh.org/current/
 [10]: https://chef.altermundi.net/
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgmarcos87%2Flime-packages.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgmarcos87%2Flime-packages?ref=badge_large)
